@@ -136,7 +136,7 @@ count(*) number_of_orders from reatail_sales
 - 📌 A few high-value customers contributed significantly to total revenue.
 - 📌 Monthly sales trends indicate seasonal demand, helping plan inventory and marketing.
   
-  -- ----------------------------------------------------------------  END  --------------------------------------------------------------------- --
+-----------------------------------------------  END  ------------------------------------------------
  
         
 
