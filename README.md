@@ -40,7 +40,8 @@ select count(*) as total_sales from reatail_sales;
 ```
 ## how many uniq custumors we have ?
 
-```select count(distinct customer_id) as total_customers from reatail_sales;
+```
+select count(distinct customer_id) as total_customers from reatail_sales;
 ```
 ## category types?
 ```
