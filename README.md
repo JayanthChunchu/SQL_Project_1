@@ -68,7 +68,7 @@ and sale_date between '2022-11-01' and '2022-11-30'
  ## Q.3 Write a SQL query to calculate the total sales (total_sale) for each category.
  
 ```select distinct category ,sum(total_sale) from reatail_sales
-group by category;
+   group by category;
 ```
 ## Q.4 Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
 ```
