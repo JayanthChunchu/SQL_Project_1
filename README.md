@@ -129,10 +129,10 @@ count(*) number_of_orders from reatail_sales
  group by category;
 ```
 ## Finding & Conclusion
-📌 The Clothing category had the highest number of transactions, while Electronics generated more revenue per sale.
-📌 Sales peaked in the afternoon shift (12 PM – 5 PM), with lower activity in the morning.
-📌 A few high-value customers contributed significantly to total revenue.
-📌 Monthly sales trends indicate seasonal demand, helping plan inventory and marketing.
+- 📌 The Clothing category had the highest number of transactions, while Electronics generated more revenue per sale.
+- 📌 Sales peaked in the afternoon shift (12 PM – 5 PM), with lower activity in the morning.
+- 📌 A few high-value customers contributed significantly to total revenue.
+- 📌 Monthly sales trends indicate seasonal demand, helping plan inventory and marketing.
   
   -- ----------------------------------------------------------------  END  --------------------------------------------------------------------- --
  
